@@ -1,0 +1,26 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited
+{
+    background-color: #284485 !important;
+    width: 130px;
+}
+h2
+{
+    font-family: Consolas, monaco, monospace;
+}
+.cor{
+    background-color:#7B82B9;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+ 
+table, th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+ 
+th {
+  background-color: #f2f2f2;
+}
